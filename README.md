@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">Developer from Toledo, PR, Brazil</h3>
+<h3 align="center">Developer from Toledo, PR, Brazil | Student at UTFPR (Internet Systems) </h3>
 
 - 🔭 I’m currently working on [TLC_CIV](https://github.com/custodiotiago1986/TLC_CIV)
 
