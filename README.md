@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/custodiotiago/](https://www.linkedin.com/in/custodiotiago/)
 
-- ⚡ Fun fact **When I was a teenager, I used to program in Visual Basic as a hobby, but only recently, 4 years ago, did I resume studying software development.**
+- ⚡ Fun fact **As a teenager, I programmed in Visual Basic as a hobby, but resumed studying software development only 4 years ago.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
