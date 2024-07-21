@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/custodiotiago/](https://www.linkedin.com/in/custodiotiago/)
 
-- ⚡ Fun fact **I programmed in Visual Basic as a teen and resumed studying development 4 years ago.**
+- ⚡ Fun fact **I programmed in Visual Basic as a teen and picked up software development again 4 years ago.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
