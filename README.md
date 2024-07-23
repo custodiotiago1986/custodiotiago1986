@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **tiagoluis86@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/custodiotiago/](https://www.linkedin.com/in/custodiotiago/)
-
-- ⚡ Fun fact **I programmed in Visual Basic as a teen and picked up software development again 4 years ago.**
+- 📄 Know about my experiences [https://www.linkedin.com/in/custodiotiago/](https://www.linkedin.com/in/custodiotiago/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
