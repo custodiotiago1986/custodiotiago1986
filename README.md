@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">Backend Developer Python | Java | C# from Toledo, PR, Brazil | Student at UTFPR (Internet Systems) </h3>
 
-- 🔭 I’m currently working on [TLC_CIV](https://github.com/custodiotiago1986/TLC_CIV)
-
-- 🌱 I’m currently learning **ASP.NET**
-
-- 👯 I’m looking to collaborate on **.NET open source projects**
-
-- 👨‍💻 All of my projects are available at [https://devtiago.netlify.app/](https://devtiago.netlify.app/)
-
-- 📝 I regularly write articles on [https://devtiago.netlify.app/](https://devtiago.netlify.app/)
-
-- 📫 How to reach me **tiagoluis86@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/custodiotiago/](https://www.linkedin.com/in/custodiotiago/)  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/custodiotiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="custodiotiago" height="30" width="40" /></a>
